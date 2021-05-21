@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring.errorcode</groupId>
-    <artifactId>leo-08-spring-jdbc-errorcode</artifactId>
+    <artifactId>leo-008-spring-jdbc-errorcode</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>leo-08-spring-jdbc-errorcode</name>
+    <name>leo-008-spring-jdbc-errorcode</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
